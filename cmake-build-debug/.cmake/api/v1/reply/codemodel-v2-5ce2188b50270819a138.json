@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bases_de_la_programaci_n_en_C_Sebastian_Alberto_Dmitry",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio1-Debug-c54fd46b71d8e4f484b3.json",
+					"name" : "Ejercicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio4-Debug-89cb88d63d0306fc5242.json",
+					"name" : "Ejercicio4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug",
+		"source" : "C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
