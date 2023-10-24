@@ -116,115 +116,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named main
+# Target rules for targets named Ejercicio2
 
 # Build rule for target.
-main: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 main
-.PHONY : main
+Ejercicio2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio2
+.PHONY : Ejercicio2
 
 # fast build rule for target.
-main/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
-.PHONY : main/fast
+Ejercicio2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/build
+.PHONY : Ejercicio2/fast
 
-#=============================================================================
-# Target rules for targets named Ejercicio2.1
-
-# Build rule for target.
-Ejercicio2.1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio2.1
-.PHONY : Ejercicio2.1
-
-# fast build rule for target.
-Ejercicio2.1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.1.dir\build.make CMakeFiles/Ejercicio2.1.dir/build
-.PHONY : Ejercicio2.1/fast
-
-#=============================================================================
-# Target rules for targets named Ejercicio2.2
-
-# Build rule for target.
-Ejercicio2.2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio2.2
-.PHONY : Ejercicio2.2
-
-# fast build rule for target.
-Ejercicio2.2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.2.dir\build.make CMakeFiles/Ejercicio2.2.dir/build
-.PHONY : Ejercicio2.2/fast
-
-Ejercicio2.1.obj: Ejercicio2.1.cpp.obj
-.PHONY : Ejercicio2.1.obj
+Ejercicio2.obj: Ejercicio2.cpp.obj
+.PHONY : Ejercicio2.obj
 
 # target to build an object file
-Ejercicio2.1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.1.dir\build.make CMakeFiles/Ejercicio2.1.dir/Ejercicio2.1.cpp.obj
-.PHONY : Ejercicio2.1.cpp.obj
+Ejercicio2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.obj
+.PHONY : Ejercicio2.cpp.obj
 
-Ejercicio2.1.i: Ejercicio2.1.cpp.i
-.PHONY : Ejercicio2.1.i
-
-# target to preprocess a source file
-Ejercicio2.1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.1.dir\build.make CMakeFiles/Ejercicio2.1.dir/Ejercicio2.1.cpp.i
-.PHONY : Ejercicio2.1.cpp.i
-
-Ejercicio2.1.s: Ejercicio2.1.cpp.s
-.PHONY : Ejercicio2.1.s
-
-# target to generate assembly for a file
-Ejercicio2.1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.1.dir\build.make CMakeFiles/Ejercicio2.1.dir/Ejercicio2.1.cpp.s
-.PHONY : Ejercicio2.1.cpp.s
-
-Ejercicio2.2.obj: Ejercicio2.2.cpp.obj
-.PHONY : Ejercicio2.2.obj
-
-# target to build an object file
-Ejercicio2.2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.2.dir\build.make CMakeFiles/Ejercicio2.2.dir/Ejercicio2.2.cpp.obj
-.PHONY : Ejercicio2.2.cpp.obj
-
-Ejercicio2.2.i: Ejercicio2.2.cpp.i
-.PHONY : Ejercicio2.2.i
+Ejercicio2.i: Ejercicio2.cpp.i
+.PHONY : Ejercicio2.i
 
 # target to preprocess a source file
-Ejercicio2.2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.2.dir\build.make CMakeFiles/Ejercicio2.2.dir/Ejercicio2.2.cpp.i
-.PHONY : Ejercicio2.2.cpp.i
+Ejercicio2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.i
+.PHONY : Ejercicio2.cpp.i
 
-Ejercicio2.2.s: Ejercicio2.2.cpp.s
-.PHONY : Ejercicio2.2.s
-
-# target to generate assembly for a file
-Ejercicio2.2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.2.dir\build.make CMakeFiles/Ejercicio2.2.dir/Ejercicio2.2.cpp.s
-.PHONY : Ejercicio2.2.cpp.s
-
-main.obj: main.cpp.obj
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
+Ejercicio2.s: Ejercicio2.cpp.s
+.PHONY : Ejercicio2.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.s
-.PHONY : main.cpp.s
+Ejercicio2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.s
+.PHONY : Ejercicio2.cpp.s
 
 # Help Target
 help:
@@ -234,18 +160,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ejercicio2.1
-	@echo ... Ejercicio2.2
-	@echo ... main
-	@echo ... Ejercicio2.1.obj
-	@echo ... Ejercicio2.1.i
-	@echo ... Ejercicio2.1.s
-	@echo ... Ejercicio2.2.obj
-	@echo ... Ejercicio2.2.i
-	@echo ... Ejercicio2.2.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... Ejercicio2
+	@echo ... Ejercicio2.obj
+	@echo ... Ejercicio2.i
+	@echo ... Ejercicio2.s
 .PHONY : help
 
 

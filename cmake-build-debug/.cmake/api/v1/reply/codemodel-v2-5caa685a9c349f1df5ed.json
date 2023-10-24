@@ -15,9 +15,7 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2
+						0
 					]
 				}
 			],
@@ -32,9 +30,7 @@
 					"name" : "Bases_de_la_programaci_n_en_C_Sebastian_Alberto_Dmitry",
 					"targetIndexes" : 
 					[
-						0,
-						1,
-						2
+						0
 					]
 				}
 			],
@@ -42,23 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Ejercicio2.1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Ejercicio2.1-Debug-096c46879734cce7819d.json",
-					"name" : "Ejercicio2.1",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Ejercicio2.2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Ejercicio2.2-Debug-0eab577c1c3dd5f239b7.json",
-					"name" : "Ejercicio2.2",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "main::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-main-Debug-bd7f046171c3edc518e9.json",
-					"name" : "main",
+					"id" : "Ejercicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio2-Debug-413278e0bc96e67b5da6.json",
+					"name" : "Ejercicio2",
 					"projectIndex" : 0
 				}
 			]
