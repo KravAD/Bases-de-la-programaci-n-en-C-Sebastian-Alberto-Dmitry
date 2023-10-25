@@ -52,4 +52,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Ejercicio2.dir/DependInfo.cmake"
+  "CMakeFiles/Ejercicio5.dir/DependInfo.cmake"
   )

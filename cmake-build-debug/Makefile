@@ -128,6 +128,19 @@ Ejercicio2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/build
 .PHONY : Ejercicio2/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio5
+
+# Build rule for target.
+Ejercicio5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio5
+.PHONY : Ejercicio5
+
+# fast build rule for target.
+Ejercicio5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/build
+.PHONY : Ejercicio5/fast
+
 Ejercicio2.obj: Ejercicio2.cpp.obj
 .PHONY : Ejercicio2.obj
 
@@ -152,6 +165,54 @@ Ejercicio2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio2.dir\build.make CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.s
 .PHONY : Ejercicio2.cpp.s
 
+Ejercicio5b.obj: Ejercicio5b.cpp.obj
+.PHONY : Ejercicio5b.obj
+
+# target to build an object file
+Ejercicio5b.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj
+.PHONY : Ejercicio5b.cpp.obj
+
+Ejercicio5b.i: Ejercicio5b.cpp.i
+.PHONY : Ejercicio5b.i
+
+# target to preprocess a source file
+Ejercicio5b.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.i
+.PHONY : Ejercicio5b.cpp.i
+
+Ejercicio5b.s: Ejercicio5b.cpp.s
+.PHONY : Ejercicio5b.s
+
+# target to generate assembly for a file
+Ejercicio5b.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.s
+.PHONY : Ejercicio5b.cpp.s
+
+Funciones.obj: Funciones.cpp.obj
+.PHONY : Funciones.obj
+
+# target to build an object file
+Funciones.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj
+.PHONY : Funciones.cpp.obj
+
+Funciones.i: Funciones.cpp.i
+.PHONY : Funciones.i
+
+# target to preprocess a source file
+Funciones.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Funciones.cpp.i
+.PHONY : Funciones.cpp.i
+
+Funciones.s: Funciones.cpp.s
+.PHONY : Funciones.s
+
+# target to generate assembly for a file
+Funciones.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio5.dir\build.make CMakeFiles/Ejercicio5.dir/Funciones.cpp.s
+.PHONY : Funciones.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,9 +222,16 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Ejercicio2
+	@echo ... Ejercicio5
 	@echo ... Ejercicio2.obj
 	@echo ... Ejercicio2.i
 	@echo ... Ejercicio2.s
+	@echo ... Ejercicio5b.obj
+	@echo ... Ejercicio5b.i
+	@echo ... Ejercicio5b.s
+	@echo ... Funciones.obj
+	@echo ... Funciones.i
+	@echo ... Funciones.s
 .PHONY : help
 
 
