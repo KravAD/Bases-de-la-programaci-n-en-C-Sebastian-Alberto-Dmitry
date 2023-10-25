@@ -1,0 +1,10 @@
+# ninja log v5
+0	269	7197886186827587	CMakeFiles/Bases_de_la_programaci_n_en_C_Sebastian_Alberto_Dmitry.dir/main.cpp.obj	a1d642e4e68a5afb
+271	353	7197886187635248	Bases_de_la_programaci_n_en_C_Sebastian_Alberto_Dmitry.exe	46c59f424e7a0367
+1	264	7197889381663163	CMakeFiles/Ejercicio1.dir/Ejercicio1.cpp.obj	2db95e639bcca2ec
+9	783	7197906338379839	CMakeFiles/Ejercicio1.dir/Ejercicio1.1.cpp.obj	26345391516e76f4
+1	741	7197906336351764	CMakeFiles/Ejercicio1.dir/Ejercicio1.2.cpp.obj	e62b3f3dedeac41b
+4	360	7197922045802494	CMakeFiles/Ejercicio1.2.dir/Ejercicio1.2.cpp.obj	ec1630374691d97c
+361	489	7197922047088143	Ejercicio1.2.exe	742fb72356abc730
+0	361	7197932269985589	CMakeFiles/Ejercicio1.3.dir/Ejercicio1.3.cpp.obj	21231e8ff35cd5e7
+362	459	7197932270869975	Ejercicio1.3.exe	81affed2ded9d744

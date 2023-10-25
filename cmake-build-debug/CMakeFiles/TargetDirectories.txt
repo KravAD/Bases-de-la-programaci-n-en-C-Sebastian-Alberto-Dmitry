@@ -1,0 +1,5 @@
+C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug/CMakeFiles/Ejercicio1.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug/CMakeFiles/Ejercicio4.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug/CMakeFiles/Ejercicio8.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
