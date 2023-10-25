@@ -16,7 +16,7 @@ void funcionLocal() {
 
 int main(){
 
-    //1.1
+    //Utilidad de las variables
     std::string nombre;
     int edad;
 
@@ -28,13 +28,13 @@ int main(){
 
     std::cout << "Hola, " << nombre << ". Tu edad es " << edad << " años." << std::endl;
 
-    //1.2
+    //Ámbito de las variable
     std::cout << "En la funcion main: "<< std::endl;
     std::cout << "Variable global: " << variableGlobal << std::endl;
 
     funcionLocal();
 
-    //1.4
+    //Tipo de datos
 
     int Entero = 60;
     std::cout << "Entero: " << Entero << std::endl;

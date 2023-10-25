@@ -141,6 +141,19 @@ Ejercicio4/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio4.dir\build.make CMakeFiles/Ejercicio4.dir/build
 .PHONY : Ejercicio4/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio8
+
+# Build rule for target.
+Ejercicio8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejercicio8
+.PHONY : Ejercicio8
+
+# fast build rule for target.
+Ejercicio8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio8.dir\build.make CMakeFiles/Ejercicio8.dir/build
+.PHONY : Ejercicio8/fast
+
 Ejercicio1.obj: Ejercicio1.cpp.obj
 .PHONY : Ejercicio1.obj
 
@@ -189,6 +202,30 @@ Ejercicio4.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio4.dir\build.make CMakeFiles/Ejercicio4.dir/Ejercicio4.cpp.s
 .PHONY : Ejercicio4.cpp.s
 
+Ejercicio8.obj: Ejercicio8.cpp.obj
+.PHONY : Ejercicio8.obj
+
+# target to build an object file
+Ejercicio8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio8.dir\build.make CMakeFiles/Ejercicio8.dir/Ejercicio8.cpp.obj
+.PHONY : Ejercicio8.cpp.obj
+
+Ejercicio8.i: Ejercicio8.cpp.i
+.PHONY : Ejercicio8.i
+
+# target to preprocess a source file
+Ejercicio8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio8.dir\build.make CMakeFiles/Ejercicio8.dir/Ejercicio8.cpp.i
+.PHONY : Ejercicio8.cpp.i
+
+Ejercicio8.s: Ejercicio8.cpp.s
+.PHONY : Ejercicio8.s
+
+# target to generate assembly for a file
+Ejercicio8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejercicio8.dir\build.make CMakeFiles/Ejercicio8.dir/Ejercicio8.cpp.s
+.PHONY : Ejercicio8.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -199,12 +236,16 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Ejercicio1
 	@echo ... Ejercicio4
+	@echo ... Ejercicio8
 	@echo ... Ejercicio1.obj
 	@echo ... Ejercicio1.i
 	@echo ... Ejercicio1.s
 	@echo ... Ejercicio4.obj
 	@echo ... Ejercicio4.i
 	@echo ... Ejercicio4.s
+	@echo ... Ejercicio8.obj
+	@echo ... Ejercicio8.i
+	@echo ... Ejercicio8.s
 .PHONY : help
 
 
