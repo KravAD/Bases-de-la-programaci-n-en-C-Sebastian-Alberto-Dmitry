@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/monge/Documents/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio2.cpp" "CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.obj" "gcc" "CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.obj.d"
+  "C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio2.cpp" "CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.obj" "gcc" "CMakeFiles/Ejercicio2.dir/Ejercicio2.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

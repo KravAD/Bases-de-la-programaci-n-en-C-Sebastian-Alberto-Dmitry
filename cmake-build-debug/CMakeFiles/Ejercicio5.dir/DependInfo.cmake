@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/monge/Documents/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio5b.cpp" "CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj" "gcc" "CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj.d"
-  "C:/Users/monge/Documents/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Funciones.cpp" "CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj" "gcc" "CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj.d"
+  "C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio5b.cpp" "CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj" "gcc" "CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj.d"
+  "C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Funciones.cpp" "CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj" "gcc" "CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry
+CMAKE_SOURCE_DIR = C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Ejercicio5.dir/depend.make
@@ -69,32 +69,32 @@ include CMakeFiles/Ejercicio5.dir/progress.make
 include CMakeFiles/Ejercicio5.dir/flags.make
 
 CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj: CMakeFiles/Ejercicio5.dir/flags.make
-CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj: C:/Users/monge/Documents/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio5b.cpp
+CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj: C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Ejercicio5b.cpp
 CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj: CMakeFiles/Ejercicio5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj -MF CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.obj.d -o CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.obj -c C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.obj -MF CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.obj.d -o CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.obj -c C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp
 
 CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp > CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp > CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.i
 
 CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio5.dir/Ejercicio5b.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp -o CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Ejercicio5b.cpp -o CMakeFiles\Ejercicio5.dir\Ejercicio5b.cpp.s
 
 CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj: CMakeFiles/Ejercicio5.dir/flags.make
-CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj: C:/Users/monge/Documents/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Funciones.cpp
+CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj: C:/Users/krave/OneDrive/Documentos/GitHub/Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry/Funciones.cpp
 CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj: CMakeFiles/Ejercicio5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj -MF CMakeFiles\Ejercicio5.dir\Funciones.cpp.obj.d -o CMakeFiles\Ejercicio5.dir\Funciones.cpp.obj -c C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ejercicio5.dir/Funciones.cpp.obj -MF CMakeFiles\Ejercicio5.dir\Funciones.cpp.obj.d -o CMakeFiles\Ejercicio5.dir\Funciones.cpp.obj -c C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp
 
 CMakeFiles/Ejercicio5.dir/Funciones.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejercicio5.dir/Funciones.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp > CMakeFiles\Ejercicio5.dir\Funciones.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp > CMakeFiles\Ejercicio5.dir\Funciones.cpp.i
 
 CMakeFiles/Ejercicio5.dir/Funciones.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejercicio5.dir/Funciones.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp -o CMakeFiles\Ejercicio5.dir\Funciones.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\Funciones.cpp -o CMakeFiles\Ejercicio5.dir\Funciones.cpp.s
 
 # Object files for target Ejercicio5
 Ejercicio5_OBJECTS = \
@@ -110,7 +110,7 @@ Ejercicio5.exe: CMakeFiles/Ejercicio5.dir/build.make
 Ejercicio5.exe: CMakeFiles/Ejercicio5.dir/linkLibs.rsp
 Ejercicio5.exe: CMakeFiles/Ejercicio5.dir/objects1.rsp
 Ejercicio5.exe: CMakeFiles/Ejercicio5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Ejercicio5.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Ejercicio5.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ejercicio5.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/Ejercicio5.dir/clean:
 .PHONY : CMakeFiles/Ejercicio5.dir/clean
 
 CMakeFiles/Ejercicio5.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug C:\Users\monge\Documents\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles\Ejercicio5.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug C:\Users\krave\OneDrive\Documentos\GitHub\Bases-de-la-programaci-n-en-C-Sebastian-Alberto-Dmitry\cmake-build-debug\CMakeFiles\Ejercicio5.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Ejercicio5.dir/depend
 
